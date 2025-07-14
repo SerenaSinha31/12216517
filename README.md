@@ -23,6 +23,7 @@ Expiry time
 Number of clicks
 
 🧠 Tech Stack
+
 React
 
 Vite
