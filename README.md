@@ -47,3 +47,6 @@ src/
 └── index.html               # HTML entry
 middleware loging entery point
 Middleware Longing
+<img width="1920" height="1080" alt="Screenshot (549)" src="https://github.com/user-attachments/assets/9463fa07-7b49-4d1d-8eea-97bc1abde103" />
+
+<img width="1920" height="1080" alt="Screenshot (548)" src="https://github.com/user-attachments/assets/60626b7d-b7f4-4c23-9be4-34404eef383f" />
