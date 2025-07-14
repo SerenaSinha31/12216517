@@ -45,4 +45,5 @@ src/
 │   └── App.css              # Basic styling
 ├── main.jsx                 # Vite entry point
 └── index.html               # HTML entry
+middleware loging entery point
 Middleware Longing
